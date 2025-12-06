@@ -29,27 +29,6 @@
 - [ ] 增强稳定性（进行中...）
 - [ ] 优化用户体验（进行中...）
 
-## 快速开始
-
-```shell
-git clone https://gitee.com/aiflowy/aiflowy.git
-
-cd aiflowy
-mvn clean package
-
-cd aiflowy-ui-react
-npm install
-npm run dev
-```
-
-详细文档请参考： https://aiflowy.tech/zh/development/getting-started/getting-started.html
-
-
-## 开发及产品文档
-
-https://aiflowy.tech 
-
-
 
 ## 关于团队
 我们是一支小而精悍、充满激情与创造力的团队。在推出 AIFlowy 之前，我们已经成功打造了多个备受认可的开源项目， 包括 Agents-Flex 、Tinyflow 和 AIEditor 。
